@@ -4,5 +4,5 @@ I'm a full stack developer based in Zagreb, Croatia 🇭🇷. Professionally I w
 
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitodeco&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nitodeco&hide=javascript,css,scss,html&theme=transparent)
 
